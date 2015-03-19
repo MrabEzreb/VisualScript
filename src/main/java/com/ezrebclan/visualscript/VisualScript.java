@@ -14,10 +14,8 @@ import com.ezrebclan.visualscript.handlers.ImageLoadHandler;
 public class VisualScript {
 
 	public static void main(String[] args) {
-		System.out.println("test2");
 		ImageLoadHandler.loadImagesFromFields();
 		windowTest();
-		System.out.println(4);
 	}
 	
 	public static void windowTest() {
